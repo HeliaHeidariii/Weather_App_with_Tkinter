@@ -24,7 +24,7 @@ This project is a desktop application built with `Tkinter` that fetches real-tim
 ## Usage
 1. Run the Python script:
    ```bash
-   python app_w.py
+   python Weather_App.py
    ```
 2. Enter the name of a city in the input field, and the app will display the current weather conditions and local time.
 
